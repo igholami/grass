@@ -1,0 +1,18 @@
+# Django and Core Dependencies
+Django==5.1.1
+python-dotenv==1.0.0
+
+# Canvas LMS Integration
+canvasapi==3.0.0
+
+# Telegram Bot
+python-telegram-bot==20.6
+
+# Web Automation
+selenium==4.15.0
+
+# Database (optional - SQLite is included with Python)
+# psycopg2-binary==2.9.7  # For PostgreSQL
+
+# Additional utilities
+asgiref==3.7.2
